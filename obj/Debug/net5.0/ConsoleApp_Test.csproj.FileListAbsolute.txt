@@ -1,0 +1,16 @@
+C:\Users\osyfe\source\repos\ConsoleApp_Test\bin\Debug\net5.0\ConsoleApp_Test.exe
+C:\Users\osyfe\source\repos\ConsoleApp_Test\bin\Debug\net5.0\ConsoleApp_Test.deps.json
+C:\Users\osyfe\source\repos\ConsoleApp_Test\bin\Debug\net5.0\ConsoleApp_Test.runtimeconfig.json
+C:\Users\osyfe\source\repos\ConsoleApp_Test\bin\Debug\net5.0\ConsoleApp_Test.runtimeconfig.dev.json
+C:\Users\osyfe\source\repos\ConsoleApp_Test\bin\Debug\net5.0\ConsoleApp_Test.dll
+C:\Users\osyfe\source\repos\ConsoleApp_Test\bin\Debug\net5.0\ref\ConsoleApp_Test.dll
+C:\Users\osyfe\source\repos\ConsoleApp_Test\bin\Debug\net5.0\ConsoleApp_Test.pdb
+C:\Users\osyfe\source\repos\ConsoleApp_Test\obj\Debug\net5.0\ConsoleApp_Test.csproj.AssemblyReference.cache
+C:\Users\osyfe\source\repos\ConsoleApp_Test\obj\Debug\net5.0\ConsoleApp_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osyfe\source\repos\ConsoleApp_Test\obj\Debug\net5.0\ConsoleApp_Test.AssemblyInfoInputs.cache
+C:\Users\osyfe\source\repos\ConsoleApp_Test\obj\Debug\net5.0\ConsoleApp_Test.AssemblyInfo.cs
+C:\Users\osyfe\source\repos\ConsoleApp_Test\obj\Debug\net5.0\ConsoleApp_Test.csproj.CoreCompileInputs.cache
+C:\Users\osyfe\source\repos\ConsoleApp_Test\obj\Debug\net5.0\ConsoleApp_Test.dll
+C:\Users\osyfe\source\repos\ConsoleApp_Test\obj\Debug\net5.0\ref\ConsoleApp_Test.dll
+C:\Users\osyfe\source\repos\ConsoleApp_Test\obj\Debug\net5.0\ConsoleApp_Test.pdb
+C:\Users\osyfe\source\repos\ConsoleApp_Test\obj\Debug\net5.0\ConsoleApp_Test.genruntimeconfig.cache
